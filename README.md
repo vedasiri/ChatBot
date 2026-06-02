@@ -276,13 +276,16 @@ http://localhost:8501
 
 ---
 
-# 👩‍💻 Author
+# 👩‍💻 Contributors
 
 ## vedasri kalla
 
+-github:
+https://github.com/vedasiri/ChatBot
 
 - LinkedIn:
   https://www.linkedin.com/in/veda-sri-kalla-b65060288
+
 
 ---
 
